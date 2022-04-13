@@ -1,7 +1,7 @@
 # microservices-unmigrations
 A curated list of public stories related to migrating away from microservices, usually back towards monoliths. This is not intended to be anti-microservices. Architecture must be carefully considered based on the system's context rather than ideology either way. 
 
-This is intended for those either considering migrating away from microservices and looking for case studies or as lessons learned for those considering their migration to microservices.
+But, it's useful to track the changing design trends over time and this respository is intended to collect any stories that emerge of companies deciding to transform their architecture away from microservices after trying it.
 
 ## Public stories
 
