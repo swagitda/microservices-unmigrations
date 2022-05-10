@@ -27,5 +27,6 @@ But, it's useful to track the changing design trends over time and this resposit
 * https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952
 
 ## Other resources
+* Give me back my monolith by Craig Kerstiens: https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/
 * Monoliths are the Future by Kelsey Hightower: https://changelog.com/posts/monoliths-are-the-future 
 * Monolith First by Martin Fowler: https://martinfowler.com/bliki/MonolithFirst.html
